@@ -1,0 +1,35 @@
+id,algorithm,status,content_type,saved_path,message,url
+1,A*,url_error,,,Tunnel connection failed: 403 Forbidden,https://ieeexplore.ieee.org/document/4082128
+2,Dijkstra,url_error,,,Tunnel connection failed: 403 Forbidden,https://link.springer.com/article/10.1007/BF01386390
+3,Uniform Cost Search (UCS),url_error,,,Tunnel connection failed: 403 Forbidden,https://aima.cs.berkeley.edu/
+4,Greedy Best-First Search,url_error,,,Tunnel connection failed: 403 Forbidden,https://royalsocietypublishing.org/doi/10.1098/rspa.1966.0175
+5,IDA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/0004370285900840
+6,RBFS,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/000437029390079V
+7,Fringe Search,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.semanticscholar.org/paper/Fringe-Search%3A-Beating-A*-at-Pathfinding-on-Game-Bj%C3%B6rnsson-Enzenberger/2a46d422544948e877e67412f0526555fb37e3a8
+8,Weighted A*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/abs/pii/0004370270900124
+9,Anytime A*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.jair.org/index.php/jair/article/view/10495
+10,Bidirectional A*,url_error,,,Tunnel connection failed: 403 Forbidden,https://link.springer.com/chapter/10.1007/978-1-4684-2001-2_9
+11,Angle Propagation A* (AP A*),url_error,,,Tunnel connection failed: 403 Forbidden,https://aaai.org/papers/01177-aaai07-187-theta-any-angle-path-planning-on-grids/
+12,Theta*,url_error,,,Tunnel connection failed: 403 Forbidden,https://aaai.org/papers/01177-aaai07-187-theta-any-angle-path-planning-on-grids/
+13,Lazy Theta*,url_error,,,Tunnel connection failed: 403 Forbidden,https://ojs.aaai.org/index.php/AAAI/article/view/7564
+14,ANYA,url_error,,,Tunnel connection failed: 403 Forbidden,https://ojs.aaai.org/index.php/ICAPS/article/view/13609
+15,D*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.ri.cmu.edu/publications/optimal-and-efficient-path-planning-for-partially-known-environments/
+16,D* Lite,url_error,,,Tunnel connection failed: 403 Forbidden,https://idm-lab.org/bib/abstracts/papers/aaai02b.pdf
+17,LPA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.cs.cmu.edu/~maxim/files/lpa_aij04_abs.html
+18,ARA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://papers.nips.cc/paper_files/paper/2003/file/ee8fe9093fbbb687bef15a38facc44d2-Paper.pdf
+19,Field D*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.ri.cmu.edu/publications/field-d-an-interpolation-based-path-planner-and-replanner/
+20,RTA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/000437029090011O
+21,LRTA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/000437029090011O
+22,GAA*,url_error,,,Tunnel connection failed: 403 Forbidden,https://idm-lab.org/bib/abstracts/papers/aamas08a.pdf
+23,Block A*,url_error,,,Tunnel connection failed: 403 Forbidden,https://idm-lab.org/bib/abstracts/papers/aaai11a.pdf
+24,Flow Field / Continuum Crowds,url_error,,,Tunnel connection failed: 403 Forbidden,https://grail.cs.washington.edu/projects/crowds/continuum_crowds.pdf
+25,Genetic Algorithm,url_error,,,Tunnel connection failed: 403 Forbidden,https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/
+26,PSO,url_error,,,Tunnel connection failed: 403 Forbidden,https://ieeexplore.ieee.org/document/494215
+27,ACO,url_error,,,Tunnel connection failed: 403 Forbidden,https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/publicationsbyyear.php
+28,MMAS,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/S0167739X0000043X
+29,Simulated Annealing,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.science.org/doi/10.1126/science.220.4598.671
+30,Firefly Algorithm,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.researchgate.net/publication/45904796_Nature-Inspired_Metaheuristic_Algorithms
+31,Bat Algorithm,url_error,,,Tunnel connection failed: 403 Forbidden,https://link.springer.com/chapter/10.1007/978-3-642-12538-6_6
+32,Cuckoo Search,url_error,,,Tunnel connection failed: 403 Forbidden,https://ieeexplore.ieee.org/document/5393690
+33,Harmony Search,url_error,,,Tunnel connection failed: 403 Forbidden,https://onlinelibrary.wiley.com/doi/10.1002/9780470172551.ems101
+34,Grey Wolf Optimizer,url_error,,,Tunnel connection failed: 403 Forbidden,https://www.sciencedirect.com/science/article/pii/S0965997813001853
